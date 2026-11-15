@@ -1,0 +1,27 @@
+{
+  "name": "anie-hmi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuanKietTM/ANIE-HMI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuanKietTM/ANIE-HMI/issues"
+  },
+  "homepage": "https://github.com/TuanKietTM/ANIE-HMI#readme",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^13.2.0",
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
